@@ -1,0 +1,1 @@
+This is my html/css project from The Odin Project in which I recreate the Google homepage.
